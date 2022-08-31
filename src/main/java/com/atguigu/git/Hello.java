@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("dev-A:55555555555");
         System.out.println("master:55555555");
         System.out.println("这是推送到github上");
+        System.out.println("备注6666666666666");
     }
 }
